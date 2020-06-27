@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mittflix-movie/static/css/main.c4a38e6f.chunk.css",
+    "main.js": "/mittflix-movie/static/js/main.53ff9992.chunk.js",
+    "main.js.map": "/mittflix-movie/static/js/main.53ff9992.chunk.js.map",
+    "runtime~main.js": "/mittflix-movie/static/js/runtime~main.cafeac04.js",
+    "runtime~main.js.map": "/mittflix-movie/static/js/runtime~main.cafeac04.js.map",
+    "static/js/2.1561d92e.chunk.js": "/mittflix-movie/static/js/2.1561d92e.chunk.js",
+    "static/js/2.1561d92e.chunk.js.map": "/mittflix-movie/static/js/2.1561d92e.chunk.js.map",
+    "index.html": "/mittflix-movie/index.html",
+    "precache-manifest.056e8981bacc0534ca3e338a93bbca4d.js": "/mittflix-movie/precache-manifest.056e8981bacc0534ca3e338a93bbca4d.js",
+    "service-worker.js": "/mittflix-movie/service-worker.js",
+    "static/css/main.c4a38e6f.chunk.css.map": "/mittflix-movie/static/css/main.c4a38e6f.chunk.css.map"
+  }
+}
